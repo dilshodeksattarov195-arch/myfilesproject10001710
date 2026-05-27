@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadercerify",
+        "uuid": 6557850,
+        "checksum": "ev0jig"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
